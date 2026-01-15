@@ -1,0 +1,14 @@
+minecraftinstance.json
+.curseclient
+/libraries
+/runtime
+/assets
+launcher_profiles.json
+worlds.json
+/logs
+rhino.local.properties
+TempOptifineStore-1.0.json
+/versions
+options.txt
+patchouli_data.json
+mods/tl_skin_cape_forge_1.20-1.38.jar

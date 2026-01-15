@@ -11,7 +11,7 @@
   "forge:ingots/aluminum": "ftbmaterials:aluminum_ingot",
   "forge:dusts/sulfur": "ftbmaterials:sulfur_dust",
   "forge:ingots/lead": "ftbmaterials:lead_ingot",
-  "forge:silicon": "ae2:silicon",
+  "forge:silicon": "null",
   "forge:ingots/invar": "ftbmaterials:invar_ingot",
   "forge:ingots/nickel": "ftbmaterials:nickel_ingot",
   "forge:ingots/tin": "ftbmaterials:tin_ingot",
